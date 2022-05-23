@@ -1,6 +1,6 @@
 /** ==========================================================================================
 
-  Project :   Fablio - Responsive Multi-purpose HTML5 Template
+  Project :   Annapoorani Textiles  - Responsive Multi-purpose HTML5 Template
   Author :    Themetechmount
 
 ========================================================================================== */
