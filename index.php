@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- Mirrored from themetechmount.com/html/Annapoorani Textiles /index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 22 May 2022 10:12:14 GMT -->
+<!-- Mirrored from themetechmount.com/php/Annapoorani Textiles /index.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 22 May 2022 10:12:14 GMT -->
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -45,7 +45,7 @@
                                 <div class="site-navigation d-flex flex-row align-items-center justify-content-between">
                                     <!-- site-branding -->
                                     <div class="site-branding ">
-                                        <a class="home-link" href="index.html" title="Annapoorani Textiles " rel="home">
+                                        <a class="home-link" href="index.php" title="Annapoorani Textiles " rel="home">
                                             <img id="logo-img" height="55" width="50" class="img-fluid auto_size" src="images/logo.svg" alt="logo-img">
                                         </a>
                                     </div><!-- site-branding end -->
@@ -64,64 +64,64 @@
                                                 <li class="mega-menu-item active">
                                                     <a href="#">Home</a>
                                                     <!-- <ul class="mega-submenu">
-                                                        <li class="active"><a href="index.html">Homepage 1</a></li>
-                                                        <li><a href="home-2.html">Homepage 2</a></li> 
-                                                        <li><a href="home-3.html">Homepage 3</a></li> 
+                                                        <li class="active"><a href="index.php">Homepage 1</a></li>
+                                                        <li><a href="home-2.php">Homepage 2</a></li> 
+                                                        <li><a href="home-3.php">Homepage 3</a></li> 
                                                     </ul> -->
                                                 </li>
                                                 <li class="mega-menu-item">
-                                                    <a href="about.html">About</a>
+                                                    <a href="about.php">About</a>
                                                     <ul class="mega-submenu">
-                                                        <!-- <li><a href="about-us.html">About Us 1</a></li>
-                                                        <li><a href="about.html">About Us 2</a></li> -->
-                                                        <!-- <li><a href="services-1.html">Services 1</a></li>
-                                                        <li><a href="allservices.html">Services 2</a></li>
-                                                        <li><a href="our-team.html">Our Team</a></li>
-                                                        <li><a href="team-details.html">Team Details</a></li>
-                                                        <li><a href="error.html">Error Page</a></li> -->
+                                                        <!-- <li><a href="about-us.php">About Us 1</a></li>
+                                                        <li><a href="about.php">About Us 2</a></li> -->
+                                                        <!-- <li><a href="services-1.php">Services 1</a></li>
+                                                        <li><a href="allservices.php">Services 2</a></li>
+                                                        <li><a href="our-team.php">Our Team</a></li>
+                                                        <li><a href="team-details.php">Team Details</a></li>
+                                                        <li><a href="error.php">Error Page</a></li> -->
                                                     </ul>
                                                 </li>
                                                 <li class="mega-menu-item">
-                                                    <a href="allservices.html">All Services</a>
+                                                    <a href="allservices.php">All Services</a>
                                                     <ul class="mega-submenu">
-                                                        <!-- <li><a href="about-us.html">About Us 1</a></li>
-                                                        <li><a href="about.html">About Us 2</a></li>
-                                                        <li><a href="services-1.html">Services 1</a></li>
-                                                        <li><a href="allservices.html">Services 2</a></li>
-                                                        <li><a href="our-team.html">Our Team</a></li>
-                                                        <li><a href="team-details.html">Team Details</a></li>
-                                                        <li><a href="error.html">Error Page</a></li> -->
+                                                        <!-- <li><a href="about-us.php">About Us 1</a></li>
+                                                        <li><a href="about.php">About Us 2</a></li>
+                                                        <li><a href="services-1.php">Services 1</a></li>
+                                                        <li><a href="allservices.php">Services 2</a></li>
+                                                        <li><a href="our-team.php">Our Team</a></li>
+                                                        <li><a href="team-details.php">Team Details</a></li>
+                                                        <li><a href="error.php">Error Page</a></li> -->
                                                     </ul> 
                                                 </li>
                                                 <li class="mega-menu-item">
-                                                    <a href="services.html">Services</a>
+                                                    <a href="services.php">Services</a>
                                                     <ul class="mega-submenu">
-                                                        <!-- <li><a href="services.html">Fabric Printing</a></li> -->
-                                                        <!-- <li><a href="fabricdyeing.html">Fabric Dyeing</a></li>
-                                                        <li><a href="engineering.html">Engineering</a></li>
-                                                        <li><a href="manufacture.html">Manufacture</a></li>
-                                                        <li><a href="we-design-fabric-2.html">Stich Fabric</a></li>
-                                                        <li><a href="we-design-fabric.html">We Design Fabric</a></li> -->
+                                                        <!-- <li><a href="services.php">Fabric Printing</a></li> -->
+                                                        <!-- <li><a href="fabricdyeing.php">Fabric Dyeing</a></li>
+                                                        <li><a href="engineering.php">Engineering</a></li>
+                                                        <li><a href="manufacture.php">Manufacture</a></li>
+                                                        <li><a href="we-design-fabric-2.php">Stich Fabric</a></li>
+                                                        <li><a href="we-design-fabric.php">We Design Fabric</a></li> -->
                                                     </ul>
                                                 </li>
                                                 <li class="mega-menu-item">
-                                                    <a href="gallery.html">Gallery</a>
+                                                    <a href="gallery.php">Gallery</a>
                                                     <!-- <ul class="mega-submenu">
-                                                        <li><a href="project-style-01.html">Project One</a></li>
-                                                        <li><a href="gallery.html">Project Two</a></li>
-                                                        <li><a href="linen-fabric.html">Project Single</a></li>
+                                                        <li><a href="project-style-01.php">Project One</a></li>
+                                                        <li><a href="gallery.php">Project Two</a></li>
+                                                        <li><a href="linen-fabric.php">Project Single</a></li>
                                                     </ul> -->
                                                 </li>
                                                 <!-- <li class="mega-menu-item">
                                                     <a href="#" class="mega-menu-link">Blog</a>
                                                     <ul class="mega-submenu">
-                                                        <li><a href="blog.html">Blog Classic</a></li>
-                                                        <li><a href="blog-grid.html">Blog Grid View</a></li>
-                                                        <li><a href="blog-single.html">Blog Single View</a></li>
+                                                        <li><a href="blog.php">Blog Classic</a></li>
+                                                        <li><a href="blog-grid.php">Blog Grid View</a></li>
+                                                        <li><a href="blog-single.php">Blog Single View</a></li>
                                                     </ul> -->
                                                 </li>
                                                 <li class="mega-menu-item">
-                                                    <a href="contact.html">Contact us</a>
+                                                    <a href="contact.php">Contact us</a>
                                                 </li>
                                             </ul>
                                         </nav><!-- menu end -->
@@ -1058,107 +1058,8 @@
 
 
         <!--footer start-->
-        <footer class="footer widget-footer ttm-bgcolor-darkgrey ttm-textcolor-white clearfix">
-            <div class="first-footer">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-9 widget-area">
-                            <div class="widget widget_text clearfix">
-                                <div class="d-sm-flex align-items-center">
-                                    <div class="footer-logo">
-                                        <img id="footer-logo-img" class="img-fluid auto_size" height="46" width="170" src="images/logo.svg" alt="image">
-                                    </div>
-                                    <div class="textwidget widget-text">
-                                        <p>Annapoorani Textiles  is operating in the textile market, as the manufacture and trader. As years go by the range of produced textiles products has increased.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 widget-area">
-                            <div class="widget widget_social clearfix">
-                                <div class="social-icons text-lg-right">
-                                    <ul class="social-icons list-inline">
-                                        <li><a class="tooltip-top" href="#" rel="noopener" aria-label="fa-whatsapp" data-tooltip="whatsapp"><i class="fa fa-whatsapp"></i></a></li>
-                                        <!-- <li><a class="tooltip-top" href="#" rel="noopener" aria-label="gmail" data-tooltip="Twitter"><i class="fa fa-gamil"></i></a></li>
-                                        <li><a class="tooltip-top" href="#" rel="noopener" aria-label="flickr" data-tooltip="Flickr"><i class="fa fa-flickr"></i></a></li>
-                                        <li><a class="tooltip-top" href="#" rel="noopener" aria-label="linkedin" data-tooltip="Linkedin"><i class="fa fa-linkedin"></i></a></li> -->
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="second-footer">
-                <div class="container">
-                    <div class="row">
-                        <!-- <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 widget-area">
-                            <div class="widget widget_text margin_right10 clearfix">
-                                <h3 class="widget-title">Get Free Estimate</h3>
-                                <div class="textwidget widget-text">
-                                    <div class="call_detail">
-                                        <h3 class="fs-24">123-456-78910</h3>
-                                        <div class="padding_top10 padding_bottom10">
-                                            <p>Our online scheduling and payment system is safe.</p>
-                                        </div> -->
-                                        <!-- <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-white w-100 text-center" href="">Request Online Form</a> -->
-                                    <!-- </div>
-                                </div>
-                            </div>
-                        </div> -->
-                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 widget-area">
-                            <div class="widget widget_nav_menu clearfix">
-                               <h3 class="widget-title">COMPANY NAVIGATION</h3>
-                               <ul id="menu-footer-quick-links" class="menu">
-                                    <li><a href="#">HOME</a></li>
-                                    <li><a href="about.html">ABOUT</a></li>
-                                    <li><a href="services.html">SERVICES</a></li>
-                                    <li><a href="gallery.html">PRODUCT</a></li>
-                                    <li><a href="contact.html">CONTACT</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        
-                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 widget-area">
-                            <div class="widget widget-latest-tweets clearfix">
-                                <h3 class="widget-title">Contact Us</h3>
-                                <ul class="widget_contact_wrapper">
-                                    <li><i class="ttm-textcolor-skincolor fa fa-map-marker"></i>21/A, Nethaji nagar, Manickam palayam road, Erode - 638004, Tamil Nadu, India.</li>
-                                    <li><i class="ttm-textcolor-skincolor fa fa-phone"></i>+91 9361524747 ,  0424 - 2217164</li>
-                                    <li><i class="ttm-textcolor-skincolor fa fa-envelope-o"></i><a href="">contact@annapooranigroup.in</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 widget-area">
-                            <div class="widget widget-recent-post clearfix">
-                               <h3 class="widget-title">Recent Posts</h3>
-                                <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7823.72095022716!2d77.70083852263453!3d11.344900138502652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba96f87994bbe4b%3A0xc257b30bf09aadb6!2sAnnapoorani%20Textiles%20Private%20Limited!5e0!3m2!1sen!2sin!4v1653393996487!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
-                            </div>
-                        </div>
-                        <!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 widget-area">
-                            <div class="widget newsletter_widget clearfix">
-                                <form id="subscribe-form" class="newsletter-form" method="post" action="#" data-mailchimp="true">
-                                    <div class="mailchimp-inputbox clearfix" id="subscribe-content"> 
-                                        <input type="text" name="NAME" id="txtname" placeholder="Your Name *" required="">
-                                        <input type="email" name="EMAIL" id="txtemail" placeholder="Your Email *" required="">
-                                        <button class="submit ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-icon-btn-right ttm-btn-style-fill ttm-btn-color-skincolor" type="submit">Subscribe us<i class="fa fa-caret-right" aria-hidden="true"></i></button>
-                                    </div>
-                                    <div id="subscribe-msg"></div>
-                                </form>
-                            </div>
-                        </div> -->
-                    </div>
-                </div>
-            </div>
-            <footer class="footer-section   bd-top-dark tt-u ">
-                <div class="container d-flex justify-content-between " >
-                    <p class="no-margin  ttm-textcolor-white" >&copy; Copyright 2022 - All Rights Reserved  </p> 
-                    <p  class="no-margin ttm-textcolor-white py-0" > designed by <strong>Nutz</strong></p>
-                </div>
-            </footer>
-                </div>
-            </div>
-        </footer>
+        <?php include 'footer.php' ?>
+
         <!--footer end-->
 
     <!--back-to-top start-->
@@ -1187,5 +1088,5 @@
 
 </body>
 
-<!-- Mirrored from themetechmount.com/html/Annapoorani Textiles /index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 22 May 2022 10:12:37 GMT -->
+<!-- Mirrored from themetechmount.com/php/Annapoorani Textiles /index.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 22 May 2022 10:12:37 GMT -->
 </html>
